@@ -18,6 +18,9 @@
 # beta v1.0.21
 - Fix Missing type parameter. in Sidebar
 
+# beta v1.0.3
+- Message Notification
+- Fix Bugs on Remaining Balance
 
 # Coming Soon next beta v1.0.++
 - New reporting options for freelancers and messages.
