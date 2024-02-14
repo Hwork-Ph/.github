@@ -10,7 +10,7 @@
 - Change Password
 - Change Username
 
-# beta v1.0.2
+# beta v1.0.2 February 12 8:00 AM
 - Sidebar enhances UI and fully functional
 - Transition seamless
 - Portfolio enhance UI
