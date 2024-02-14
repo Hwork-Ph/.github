@@ -15,10 +15,10 @@
 - Transition seamless
 - Portfolio enhance UI
 
-# beta v1.0.21
+# beta v1.0.21 
 - Fix Missing type parameter. in Sidebar
 
-# beta v1.0.3
+# beta v1.0.3 Feb 14 11:09 PM
 - Message Notification
 - Fix Bugs on Remaining Balance
 
